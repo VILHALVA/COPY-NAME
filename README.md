@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
 
-<img src="https://riotron.com.br/wp-content/uploads/2017/11/content_arquivos-digitais-kalinka.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
 O aplicativo em Python desenvolvido com a biblioteca Tkinter tem o propósito de facilitar a listagem dos nomes de arquivos em um diretório escolhido pelo usuário, sem incluir as extensões dos arquivos. A interface gráfica proporciona uma interação intuitiva. Aqui está uma descrição detalhada das principais funcionalidades do app:
