@@ -1,10 +1,7 @@
 # COPY NAMES
 🎈COPIE O NOME DE TODOS OS ARQUIVOS DO SEU DIRETÓRIO.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
-
-<img src="FOTO.png" align="center" width="300"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O aplicativo em Python desenvolvido com a biblioteca Tkinter tem o propósito de facilitar a listagem dos nomes de arquivos em um diretório escolhido pelo usuário, sem incluir as extensões dos arquivos. A interface gráfica proporciona uma interação intuitiva. Aqui está uma descrição detalhada das principais funcionalidades do app:
@@ -26,3 +23,31 @@ O aplicativo em Python desenvolvido com a biblioteca Tkinter tem o propósito de
    - Um botão "Limpar" apaga o conteúdo do campo de texto, oferecendo a opção de recomeçar a operação.
 
 O aplicativo fornece uma solução eficiente para a tarefa específica de listar os nomes de arquivos em um diretório selecionado, tornando-o fácil de usar para usuários que desejam obter uma lista formatada para posterior utilização. A interface gráfica amigável facilita a interação, tornando o processo mais acessível, mesmo para aqueles com pouca experiência em linha de comando.
+
+## COMO USAR?
+**Passo 1:** Clone o repositório para o seu sistema local.
+
+```bash
+git clone https://github.com/VILHALVA/COPY-NAME.git
+```
+
+**Passo 2:** Navegue até o diretório do projeto.
+
+```bash
+cd COPY-NAME
+```
+
+**Passo 3:** Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip COPY-NAME.zip
+```
+
+**Passo 4:** Execute o executável do projeto.
+
+```bash
+./COPY-NAMES
+```
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
