@@ -26,7 +26,10 @@ O aplicativo fornece uma solução eficiente para a tarefa específica de listar
    - Um botão "Limpar" apaga o conteúdo do campo de texto, oferecendo a opção de recomeçar a operação.
 
 ## EXECUTANDO O PROJETO:
-1. Execute o arquivo Python.
+1. Navegue até o diretório `./CODIGO`, e execute o arquivo Python com o comando:
+```bash
+python CODIGO.py
+```
 2. Isso abrirá uma janela do aplicativo.
 3. Clique no botão "SELECIONAR" para escolher o diretório que contém os arquivos cujos nomes você deseja listar.
 4. Após selecionar o diretório, clique no botão "GERAR" para gerar a lista de nomes dos arquivos no diretório selecionado.
